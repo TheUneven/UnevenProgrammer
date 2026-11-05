@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm UnevenProgrammer</h1>
+<h1 align="center">Hi 👋, I'm TheUneven</h1>
 <h3 align="center">I love challenging myself with new projects</h3>
 
 - 🔭 I’m currently working on **Robotic arm**
